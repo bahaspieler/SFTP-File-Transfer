@@ -13,13 +13,4 @@ In the command window execute the following commands. Make sure of that path of 
 
   ` pip install pysftp`
 
-## Output
-
-![before_transfer](before_transfer.PNG)
-
-_Empty Directory before running the script_
-
-![After_transfer](after_transfer.PNG)
-
-_Files are transferred after running the script_
 
